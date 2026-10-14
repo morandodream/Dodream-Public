@@ -1,0 +1,25 @@
+{
+  "PartialWindows": [
+    { "Start": "10:10", "End": "10:20" },
+    { "Start": "11:10", "End": "11:20" },
+    { "Start": "12:10", "End": "12:20" },
+    { "Start": "14:50", "End": "15:00" },
+    { "Start": "15:50", "End": "16:00" }
+  ],
+  "PartialAllowedProcessNames": ["kakaotalk.exe"],
+  "PartialAllowedDomains": ["youtube.com", "instagram.com"],
+
+  "FullUnblockWindows": [
+    { "Start": "13:10", "End": "14:00" }
+  ],
+
+  "SiteBlockWindows": [
+    { "Start": "09:20", "End": "10:10" },
+    { "Start": "10:20", "End": "11:10" },
+    { "Start": "11:20", "End": "12:10" },
+    { "Start": "12:20", "End": "13:10" },
+    { "Start": "14:00", "End": "14:50" },
+    { "Start": "15:00", "End": "15:50" },
+    { "Start": "16:00", "End": "16:50" }
+  ]
+}

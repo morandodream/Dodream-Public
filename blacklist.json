@@ -1,0 +1,113 @@
+{
+  "ProcessNames": [
+    "steam.exe",
+    "steamwebhelper.exe",
+
+    "epicgameslauncher.exe",
+    "epicwebhelper.exe",
+
+    "riotclientservices.exe",
+    "riotclientux.exe",
+    "riotclientuxrender.exe",
+    "leagueclient.exe",
+    "leagueclientux.exe",
+    "leagueclientuxrender.exe",
+    "valorant-win64-shipping.exe",
+    "valorant.exe",
+
+    "battle.net.exe",
+    "agent.exe",
+    "overwatch.exe",
+    "wow.exe",
+    "wow-64.exe",
+    "diablo iii.exe",
+    "diablo iv.exe",
+    "hearthstone.exe",
+    "starcraft.exe",
+    "sc2.exe",
+
+    "eadesktop.exe",
+    "origin.exe",
+    "eabackgroundservice.exe",
+    "fc24.exe",
+    "fc25.exe",
+    "fifa22.exe",
+    "fifa23.exe",
+    "fifaonline4.exe",
+    "fconline.exe",
+
+    "ubisoftconnect.exe",
+    "upc.exe",
+
+    "nexonlauncher.exe",
+    "nexon_launcher.exe",
+    "nexonplug.exe",
+    "ngm.exe",
+    "ngm64.exe",
+    "nexongamemanager.exe",
+    "maplestory.exe",
+    "kartrider.exe",
+    "dnf.exe",
+    "sa.exe",
+    "suddenattack.exe",
+    "fclauncher.exe",
+    "fczf.exe",
+    "fifa4zf.exe",
+    "mabinogi.exe",
+    "elsword.exe",
+    "kartriderdrift.exe",
+
+    "tslgame.exe",
+    "pubg.exe",
+
+    "lostark.exe",
+
+    "robloxplayerbeta.exe",
+
+    "minecraft.exe",
+    "minecraftlauncher.exe",
+
+    "purple.exe",
+    "bns.exe",
+    "lineage.exe",
+    "lineage2.exe",
+    "aion.exe",
+
+    "kakaotalk.exe",
+
+    "solitaire.exe",
+    "sol.exe",
+
+    "expressvpn.exe",
+    "nordvpn.exe",
+    "protonvpn.exe",
+    "tunnelbear.exe",
+    "windscribe.exe",
+    "hotspotshield.exe",
+    "hola.exe",
+    "cyberghost.exe",
+    "surfshark.exe",
+    "pia_manager.exe",
+    "openvpn-gui.exe",
+    "wireguard.exe",
+
+    "firefox.exe",
+    "tor.exe",
+    "torbrowser.exe",
+    "waterfox.exe",
+    "librewolf.exe",
+    "seamonkey.exe",
+    "palemoon.exe",
+    "basilisk.exe",
+    "zen.exe",
+    "icedragon.exe",
+    "kmeleon.exe",
+
+    "utorrent.exe",
+    "bittorrent.exe",
+    "qbittorrent.exe",
+    "transmission-qt.exe",
+    "bitcomet.exe",
+    "deluge.exe"
+  ]
+}
